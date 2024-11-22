@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="Azertytype.css"/>
+    <title>Document</title>
+    <script src="script.js"></script>
+</head>
+<body>
+<h1><a href="../Azertytype.html">Typing Challenge </a></h1>
+<main>
+    <form>
+        <nav>
+            <select id="potatos" onchange="Wordsyy()">
+                <option value="word" >Word</option>
+                <option value="sentence">Sentence</option>
+            </select>
+            <input type="button" value="Start" onclick="StartGame()"/>
+        </nav>
+        <table border=1>
+            <tr>
+                <td>Type: <span id="demoaa"></span></td>
+                <td><input type="text" id="FirstCasse"/></td>
+            </tr>
+            <tr>
+                <td>Type: <span id="demoaa"></span> </td>
+                <td><input type="text" id="ScendCasse"/></td>
+            </tr>
+            <tr>
+                <td>Type: <span id="demoaa"></span></td>
+                <td><input type="text" id="ThirdCasse"/></td>
+            </tr>
+            <tr>
+                <td>Type: <span id="demoaa"></span></td>
+                <td><input type="text" id="FourthCasse"/></td>
+            </tr>
+            <tr>
+                <td ><input type="button" value="Check Score" id="scoreeCheck" onclick="ScorCheck()"/>
+                </td>
+                <td>Your Score : <span id="FinalScore"></span> </td>
+            </tr>
+        </table>
+        <div id="resault"></div>
+    </form>
+</main>
+</body>
+</html>
