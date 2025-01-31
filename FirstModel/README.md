@@ -14,7 +14,6 @@ AzertyType Challenge is a fun and interactive typing game where users practice t
 4. Click **Check Score** to see your accuracy.  
 
 ## 📂 Project Structure  
-/AzertyType-Challenge
 - index.html         # Main HTML file
 - style.css          # Styling file
 - script.js          # Game logic
