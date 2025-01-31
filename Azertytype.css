@@ -1,5 +1,7 @@
 body{
     background-color: rgb(242, 242, 248);
+    text-align: center;
+    font-weight: bolder;
 }
 h1 a{
     text-decoration: none;color: black;
@@ -13,5 +15,52 @@ h1 {
     margin-bottom: 40px;
 }
 main{
-    margin-top: 120px;
+    width: 1000px;
+    margin: auto;
+    font-size: 26px;
+    padding: 40px;
+}
+button {
+    padding: 5px;
+    background-color: rgb(195, 199, 243);
+    padding: 8px 14px;
+    font-size: 20px;border-radius: 4px;
+   border: none;
+}
+input[type="text"]{
+    padding: 10px;
+    width: 350px;  font-weight: bolder; font-size: 15px;
+}
+div{
+    margin-top: 25px;
+}
+.optionSource
+{
+    text-align: center;
+}
+input[type="radio"] {
+   color: blue;
+}
+label{
+    margin-right: 50px;
+}
+.zoneProposition{
+    background-color: rgb(195, 199, 243);
+    font-weight: 900;
+    width:80%;
+    padding: 15px;
+    margin: auto;margin-top: 50px;
+    border-radius: 6px;
+}
+.zoneScore 
+{
+    font-size:xx-large;
+}
+button{
+    font-weight: bold;
+    padding: 10px 25px;
+    font-size: 22px;
+}
+span#TheText{
+    color: rgb(47, 11, 124);
 }
