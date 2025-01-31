@@ -1,7 +1,7 @@
 
 
-let words=["ikchawen","isardonan","ifonasen","yazidan"]
-let Sentences=["life jamila","elhawa sultan","isti9lal lmeghrib","dunald und angela"]
+let words = ["apple", "banana", "chocolate", "elephant"];
+let Sentences = ["Life is beautiful", "The sky is blue", "Coding is fun", "Dream big and work hard"];
 
 
 function StartGame() 
