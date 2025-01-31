@@ -1,7 +1,16 @@
 
+let words = [
+    "apple", "banana", "chocolate", "elephant", "guitar",  
+    "sunshine", "notebook", "adventure", "whisper", "butterfly",  
+    "journey", "mountain", "rainbow"
+];
 
-let words = ["apple", "banana", "chocolate", "elephant"];
-let Sentences = ["Life is beautiful", "The sky is blue", "Coding is fun", "Dream big and work hard"];
+let Sentences = [
+    "Life is beautiful", "The sky is blue", "Coding is fun",  
+    "Dream big and work hard", "Success comes with patience",  
+    "Happiness is a choice", "Practice makes perfect",  
+    "Never stop learning", "Believe in yourself", "Time waits for no one"
+];
 
 
 function StartGame() 
