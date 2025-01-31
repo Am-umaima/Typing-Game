@@ -15,10 +15,10 @@ AzertyType Challenge is a fun and interactive typing game where users practice t
 
 ## 📂 Project Structure  
 /AzertyType-Challenge
-│── index.html         # Main HTML file
-│── style.css          # Styling file
-│── script.js          # Game logic
-│── README.md          # Project documentation
+- index.html         # Main HTML file
+- style.css          # Styling file
+- script.js          # Game logic
+- README.md          # Project documentation
 
 ## 📌 Features  
 - Word & Sentence typing modes  
